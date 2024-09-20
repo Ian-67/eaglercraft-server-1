@@ -7,7 +7,7 @@ setserver="true"
 syncweb="true"
 syncjars="true"
 #server name and motd -- DO NOT USE BACKTICKS (`) within it!! -- stuff WONT work if you DO!! ALSO do not use "${anything}" UNLESS YOU KNOW WHAT YOU ARE DOING!!
-srvname="Your Minecraft Server"
+srvname="Hardcore"
 srvmotd="Minecraft Server"
 
 
